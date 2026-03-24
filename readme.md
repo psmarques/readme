@@ -14,11 +14,17 @@ Meu primeiro contato com tecnologia foi no MSX Plus, ligado a uma TV de tubo com
 Primeiros algoritimos surgiram ali no BASIC (Famoso e polêmico GOTO)
 
 10 I=0
+
 20 PRINT "Hello"
+
 30 PRINT "World"
+
 40 PRINT ":D"
+
 50 I = I + 1
+
 60 IF (I = 3) THEN GOTO 70 ELSE GOTO 40 FI
+
 70 EXIT
 
 Atuei em diversas empresas/segmentos e nas ultimas delas foram big techs como a Via Varejo, Neon Pagamentos e Capgemini
